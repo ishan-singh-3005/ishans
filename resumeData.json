@@ -6,9 +6,9 @@
     "bio":"Frontend developer seeking to gain more backend knowledge. Fascinated by aerospace engineering and seeking to pursue a career in the field. Also passionate about astronomy and photography.",
     "contactmessage":"Thank you for viewing my portfolio, feel free to reach out to me using email or phone.",
     "email": "ishan423@gmail.com",
-    "phone": "647-639-1888",
+    "phone": "647-770-5045",
     "github":"https://github.com/ishan-singh-3005",
-    "project":"https://github.com/ishan-singh-3005/MyWebsite",
+    "project":"https://github.com/ishan-singh-3005/ishans",
     "address":{
       "street":"3703 Corliss Crescent",
       "city":"Mississauga",
@@ -119,15 +119,15 @@
     "skills":[
       {
         "name":"Java",
-        "description":"Used for multiple school relaated projects"
+        "description":"Used for multiple school related projects"
       },
       {
-        "name":"ReactJs",
-        "description":"Mainly focused on forntend development, seeking to gain more backend knowledge"
+        "name":"React.js",
+        "description":"Mainly focused on frontend development, seeking to gain more backend knowledge"
       },
       {
-        "name":"C#",
-        "description":"Used for personal projects related to game development"
+        "name":"Python",
+        "description":"Used for personal projects related to artifical intelligence"
       }
     ]
   },
@@ -137,19 +137,19 @@
         "title":"My Website",
         "category":"Personal Portfolio",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://github.com/ishan-singh-3005/MyWebsite"
+        "url":"https://github.com/ishan-singh-3005/ishans"
       },
       {
         "title":"Todo App",
         "category":"Personal project",
         "image":"original-thai-food.jpg",
-        "url":"https://ishan-singh-3005.github.io/todo-app/"
+        "url":"https://github.com/ishan-singh-3005/todo-2"
       },
       {
-        "title":"My Website",
-        "category":"Personal Portdolio",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://github.com/ishan-singh-3005/MyWebsite"
+        "title":"Todo App",
+        "category":"Personal Project",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/ishan-singh-3005/todo"
       },
       {
         "title":"More",
