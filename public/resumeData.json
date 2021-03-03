@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name":"Ishan Singh",
+    "description":"Frontend developer seeking to gain more backend knowledge. Fascinated by aerospace engineering and seeking to pursue a career in the field. Also passionate about astronomy and photography.",
+    "image":"profilepic.jpg",
+    "bio":"Frontend developer seeking to gain more backend knowledge. Fascinated by aerospace engineering and seeking to pursue a career in the field. Also passionate about astronomy and photography.",
+    "contactmessage":"Thank you for viewing my portfolio, feel free to reach out to me using email or phone.",
+    "email": "ishan423@gmail.com",
+    "phone": "647-770-5045",
+    "github":"https://github.com/ishan-singh-3005",
+    "project":"https://github.com/ishan-singh-3005/ishans",
+    "address":{
+      "street":"3703 Corliss Crescent",
+      "city":"Mississauga",
+      "state":"Ontatio",
+      "zip": "L4T 2Z2"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1UNXSOTHBnpaEQ4hLZQNBgiheIPydhJgvnIy2pBMLH_U/edit?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ishan-s/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ishan-singh-3005/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Following are some of the technical skills I possess:",
+    "education":[
+      {
+        "school":"Ascension of Our Lord Secondary School",
+        "degree":"High School Diploma",
+        "graduated":"Present",
+        "description":"Grade 12"
+      }
+    ],
+    "work":[
+      {
+        "company":"Royal Bank of Canada",
+        "title":"Innovation Developer",
+        "years":"July 2020 - August 2020",
+        "description":"Front-end developer for an internal application."
+      },
+      {
+        "company":"University of Toronto",
+        "title":"Research Assistant",
+        "years":"July 2019 - August 2019",
+        "description":"Helped analyze data from ASKAP telescope."
+      },
+      {
+        "company":"University of Toronto",
+        "title":"Mentor",
+        "years":"July 2019 - August 2019",
+        "description":"Executed physics based workshops."
+      }
+    ],
+    "volunteer":[
+      {
+        "company":"Visions Of Science",
+        "title":"Youth Facilitator",
+        "years":"September 2017 - Present",
+        "description":"Leading youth from lower-income and marginalized communities through science-based activities while building connections with the kids. Main goal was to help advance their education and close the gap caused by socioeconomic status."
+      },
+      {
+        "company":"Visions Of Science",
+        "title":"Content Developer",
+        "years":"July 2020 - Present",
+        "description":"Helped develop an engagement strategy with the official Communications & Marketing team."
+      },
+      {
+        "company":"Visions Of Science",
+        "title":"Visionary Tutor",
+        "years":"July 2020 - August 2020",
+        "description":"Developed and implemented engagement strategies for participants in a virtual environment."
+      },
+      {
+        "company":"Visions Of Science",
+        "title":"Peer Tutor Lead",
+        "years":"June 2020 - July 2020",
+        "description":"Helped my peers with their homework and cleared any other doubts in STEM."
+      },
+      {
+        "company":"Ascension of Our Lord Secondary School",
+        "title":"Math Tutor",
+        "years":"October 2019 - January 2020",
+        "description":"Planned and implemented a program to help my peers with any doubts with the Grade 11 Function curriculum."
+      },
+      {
+        "company":"BIA-Westwood Mall",
+        "title":"Event Staff",
+        "years":"June 2019 - July 2019",
+        "description":"Helped run Canada day celebration in my community."
+      },
+      {
+        "company":"Eclypse After School Program",
+        "title":"Program Facilitator",
+        "years":"October 2017 - June 2019",
+        "description":"Facilitated and encouraged participants to take part in a healthy lifestyle through active and engaging activities."
+      },
+      {
+        "company":"Safe City Mississauga",
+        "title":"Volunteer Tutor",
+        "years":"September 2017 - January 2018",
+        "description":"Facilitated and encouraged participants to take part in a healthy lifestyle through active and engaging activities."
+      },
+      {
+        "company":"City Of Mississauga",
+        "title":"Event Organiser",
+        "years":"September 2017 - September 2018",
+        "description":"Worked with team to host parent info sessions in communities before start of summer camp to help prepare parents/guardians."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "description":"Used for multiple school related projects"
+      },
+      {
+        "name":"React.js",
+        "description":"Mainly focused on frontend development, seeking to gain more backend knowledge"
+      },
+      {
+        "name":"Python",
+        "description":"Used for personal projects related to artifical intelligence"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My Website",
+        "category":"Personal Portfolio",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/ishan-singh-3005/ishans"
+      },
+      {
+        "title":"Todo App",
+        "category":"Personal project",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/ishan-singh-3005/todo-2"
+      },
+      {
+        "title":"Todo App",
+        "category":"Personal Project",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/ishan-singh-3005/todo"
+      },
+      {
+        "title":"More",
+        "category":"View all my works on GitHub",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/ishan-singh-3005"
+      }
+    ]
+  }
+}
